@@ -1,6 +1,10 @@
 package eu.laramartin.kotlinplayground
 
 /**
+ * ----------
+ * Properties
+ * ----------
+ *
  * Decompile the Kotlin Bytecode to Java
  *
  * Look at the getters/setters created and named for each parameter
